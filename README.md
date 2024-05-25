@@ -97,12 +97,18 @@ Untuk analisis lebih lanjut mengenai total revenue pertahun dan total canceled o
 <br>
 ![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/d692feb9-3781-4e8a-977b-725c53b330f6)
 
-**Total Revenue per Year**
+**Total Revenue per Year**<br>
 Dari 2016 sampai 2018, perusahaan eCommerce telah mendapatkan revenue total sebesar 15 juta dollar lebih dengan rincian sebagai berikut.
 <br>
-![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/b83b8dc9-2749-4a14-a9ba-d314b3b687dd)
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/6616ed4a-f588-4074-aef3-68afc499ec00)
 <br>
 Dari grafik tersebut jelas bahwa setiap tahun revenue perusahaan selalu mengalami peningkatan. Di tahun 2018 terjadi peningkatan keaktifan customer sebanyak 23%  daripada tahun sebelumnya.
+
+**Total Revenue by Top Selling Product per Year**<br>
+Berikut ini adalah product category yang menghasilkan revenue terbesar setiap tahunnya.
+<br>
+![Uploading image.png…]()
+
 
 
 
