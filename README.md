@@ -83,7 +83,7 @@ Di tahun 2018 terjadi peningkatan jumlah customer baru sebanyak 8354 orang darip
 **Total Customers Who Repeat Their Orders**
 Dari grafik ini kita bisa melihat jumlah customer yang melakukan repeat order.
 <br>
-<img src ="https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df" width = "1000" height = "500">
+<img src ="https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df" width = "400" height = "150">
 
 Walaupun jumlah customer baru meningkat setiap tahun, ternyata pada tahun 2018 customer yang melakukan repeat order malah menurun dibandingkan tahun 2017.
 
