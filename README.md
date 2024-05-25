@@ -107,7 +107,28 @@ Dari grafik tersebut jelas bahwa setiap tahun revenue perusahaan selalu mengalam
 **Total Revenue by Top Selling Product per Year**<br>
 Berikut ini adalah product category yang menghasilkan revenue terbesar setiap tahunnya.
 <br>
-![Uploading image.png…]()
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/b6e37a1b-25a4-4297-b6b3-7c5ec7887197)
+<br>
+Pada tahun 2016 product category yang memberikan revenue terbesar adalah furniture-décor. Pada tahun 2017 didominasi oleh bed-bath-table. Sementara itu, pada tahun 2018 revenue terbesar berasal dari product category  helalth-beauty.
+
+**Total Canceled Order per Year**<br>
+Selama tiga tahun total order yang telah di-cancel oleh customer adalah sebanyak 625 orderan. Berikut ini adalah rincian order yang di-cancel per tahunnya.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/25ff6307-4d13-4220-be8d-78e8f2d24708)
+<br>
+Dari 2017 ke 2018 jumlah canceled order mengalami penurunan daripada periode sebelumnya. Namun demikian, jumlah canceled order per tahunnya tetap mengalami peningkatan.
+
+**Total Canceled Order by Product Category**<br>
+Berikut ini adalah order yang telah di-cancel terbanyak oleh customer berdasarkan kategori produk setiap tahunnya.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/0ab5443d-18fb-4cd0-9164-18124ba859b5)
+<br>
+Pada tahun 2016 produk yang di-cancel paling banyak adalah kategori toys. Pada tahun 2017 canceled order terbanyak berasal dari kategori sports-leisure. Sementara itu, pada tahun 2018 produk yang telah di-cancel oleh customer paling banyak berasal dari kategori health-beauty.
+
+##P
+
+
+
 
 
 
