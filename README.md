@@ -83,7 +83,7 @@ Di tahun 2018 terjadi peningkatan jumlah customer baru sebanyak 8354 orang darip
 **Total Customers Who Repeat Their Orders**
 Dari grafik ini kita bisa melihat jumlah customer yang melakukan repeat order.
 <br>
-<img src ="https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df" width = "600" height = "200">
+<img src ="https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df" width = "600" height = "300">
 
 Walaupun jumlah customer baru meningkat setiap tahun, ternyata pada tahun 2018 customer yang melakukan repeat order malah menurun dibandingkan tahun 2017.
 
@@ -92,6 +92,24 @@ Walaupun jumlah customer baru meningkat setiap tahun, ternyata pada tahun 2018 c
 Pada bagian kedua, kita ingin menganalisis kualitas kategori produk setiap tahunnya. Tabel yang digunakan untuk mendapatkan insight dari analisis tersebut adalah table orders, product, dan items. Berikut adalah insights secara garis besar dari dataset yang dimaksud.
 <br>
 ![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/4da5e6ef-5fdf-4208-9f7a-1d49f4faf104)
+<br>
+Untuk analisis lebih lanjut mengenai total revenue pertahun dan total canceled order by product category akan mengacu pada master table berikut ini.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/d692feb9-3781-4e8a-977b-725c53b330f6)
+
+**Total Revenue per Year**
+Dari 2016 sampai 2018, perusahaan eCommerce telah mendapatkan revenue total sebesar 15 juta dollar lebih dengan rincian sebagai berikut.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/b83b8dc9-2749-4a14-a9ba-d314b3b687dd)
+<br>
+Dari grafik tersebut jelas bahwa setiap tahun revenue perusahaan selalu mengalami peningkatan. Di tahun 2018 terjadi peningkatan keaktifan customer sebanyak 23%  daripada tahun sebelumnya.
+
+
+
+
+
+
+
 
 
 
