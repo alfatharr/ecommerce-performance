@@ -114,7 +114,7 @@ Pada tahun 2016 product category yang memberikan revenue terbesar adalah furnitu
 **Total Canceled Order per Year**<br>
 Selama tiga tahun total order yang telah di-cancel oleh customer adalah sebanyak 625 orderan. Berikut ini adalah rincian order yang di-cancel per tahunnya.
 <br>
-![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/25ff6307-4d13-4220-be8d-78e8f2d24708)
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/1b0d038b-fbc4-4eb2-94ff-10df84ae3716)
 <br>
 Dari 2017 ke 2018 jumlah canceled order mengalami penurunan daripada periode sebelumnya. Namun demikian, jumlah canceled order per tahunnya tetap mengalami peningkatan.
 
