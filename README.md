@@ -9,9 +9,10 @@
 **Table of Content**
 * Case Study
 * Data Preparation
+* Annual Customer Activity Growth
 * g
 * g
-* g
+* Summary
 ---
 
 ## Case Study
@@ -52,8 +53,41 @@ Entity Realtionship Diagram dibuat dengan cara men-generate ERD di database, KLI
 <br>
 ![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/b01c1d1c-eacd-41ff-a187-d17a1923b496)
 
-##
+## Annual Customer Activity Growth
 
+Pada bagian pertama, kita ingin melihat bagaimanakah pertumbuhan dari customer setiap tahunnya. Pada dataset, diketahui bahwa bulan aktif pada tahun 2016 berjumlah empat bulan, bulan aktif pada tahun 2017 ada 12 bulan, dan bulan aktif pada tahun 2018 berjumlah 10 bulan. Perbedaan jumlah bulan ini juga mempengaruhi hasil query, dimana value pada tahun 2017 cenderung lebih besar daripada tahun lainnya. Walaupun dalam memproses data terkesan tidak apple-to-apple, namun kita masih bisa melihat gambaran umum customer activity growth dari tahun ke tahunnya.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/6d338fa1-048a-44c8-a66a-601a510e130b)
+
+**Average Monthly Active Customers per Year**<br>
+Dari 2016 sampai 2018, telah terjadi peningkatan keaktifan costumer. Hal ini menandakan setiap tahun customer aktif bertransaksi di marketplace eCommerce.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/ef1c25d3-af55-4351-9f5a-918043358953)
+
+Dari grafik tersebut jelas bahwa setiap tahun keaktifan customer selalu mengalami peningkatan. Di tahun 2018 terjadi peningkatan keaktifan customer sebanyak 44.46% daripada tahun sebelumnya.
+
+**Average Order Frequency per Customer**
+Dari data ini kita dapat mengetahui banyaknya rata-rata jumlah order yang dilakukan perorangan di marketplace eCommerce ini setiap tahunnya.  Semakin tinggi nilainya, maka semakin banyak order yang dilakukan perorangnya.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/15638e68-2cfc-4d29-912c-c900f352bc0a)
+
+Rerata order yang dilakukan customer sebanyak 1 kali. Walaupun secara aktivitas setiap tahun cenderung naik, namun untuk ukuran rerata order customer mengalami penurunan di tahun 2018 sebanyak setengah dari kenaikan pada tahun 2017.
+
+**Total New Customers per Year**
+Total customer baru setiap tahunnya mengalami peningkatan seperti yang tersaji pada grafik berikut.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/80933a2c-0a6a-4a99-bb79-7725c53adf17)
+
+Di tahun 2018 terjadi peningkatan jumlah customer baru sebanyak 8354 orang daripada tahun sebelumnya.
+
+**Total Customers Who Repeat Their Orders**
+Dari grafik ini kita bisa melihat jumlah customer yang melakukan repeat order.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df)
+
+Walaupun jumlah customer baru meningkat setiap tahun, ternyata pada tahun 2018 customer yang melakukan repeat order malah menurun dibandingkan tahun 2017.
+
+##Annual Product Category Quality Analysis
 
 
 
