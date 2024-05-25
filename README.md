@@ -83,12 +83,13 @@ Di tahun 2018 terjadi peningkatan jumlah customer baru sebanyak 8354 orang darip
 **Total Customers Who Repeat Their Orders**
 Dari grafik ini kita bisa melihat jumlah customer yang melakukan repeat order.
 <br>
-![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df)
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/c125609b-e167-4c24-bd63-f633154733df = 200x150)
 
 Walaupun jumlah customer baru meningkat setiap tahun, ternyata pada tahun 2018 customer yang melakukan repeat order malah menurun dibandingkan tahun 2017.
 
 ##Annual Product Category Quality Analysis
 
+Pada bagian kedua, kita ingin menganalisis kualitas kategori produk setiap tahunnya. Tabel yang digunakan untuk mendapatkan insight dari analisis tersebut adalah table orders, product, dan items. Berikut adalah insights secara garis besar dari dataset yang dimaksud.
 
 
 
