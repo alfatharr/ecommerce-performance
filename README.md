@@ -10,9 +10,8 @@
 * Case Study
 * Data Preparation
 * Annual Customer Activity Growth
-* g
-* g
-* Summary
+* Annual Product Category Quality Analysis
+* Annual Payment Type Usage Analysis
 ---
 
 ## Case Study
@@ -125,7 +124,18 @@ Berikut ini adalah order yang telah di-cancel terbanyak oleh customer berdasarka
 <br>
 Pada tahun 2016 produk yang di-cancel paling banyak adalah kategori toys. Pada tahun 2017 canceled order terbanyak berasal dari kategori sports-leisure. Sementara itu, pada tahun 2018 produk yang telah di-cancel oleh customer paling banyak berasal dari kategori health-beauty.
 
-##P
+## Annual Payment Type Usage Analysis
+
+Pada bagian ketiga, kita ingin menganalisis tipe pembayaran setiap tahunnya. Tabel yang digunakan untuk mendapatkan insight dari analisis tersebut adalah table orders dan product. Berikut adalah insights secara garis besar dari dataset yang dimaksud. Terdapat 5 jenis tipe pembayaran order produk oleh customer, dimana satu di antaranya adalah tipe not-defined. Tipe not-defined bisa diindikasikan dengan pembayaran yang tidak berhasil oleh customer atau pembayaran selain dengan empat tipe payment lain. Boleto atau billet jenis pembayaran yang dibuktikan dengan slip kertas bukti bayar. Credit card dan debit card adalah alat pembayaran non-tunai dengan kartu yang diterbitkan oleh bank, namun debit card langsung memotong uang yang ada di rekening nasabah. Voucher adalah pembayaran suatu order dengan menggunakan alat tukar tertentu.
+
+**Number of Total Payment Type Used of All Time**<br>
+Berikut ini adalah rincian tipe pembayaran yang digunakan oleh customer selama tiga tahun.
+<br>
+![image](https://github.com/alfatharr/ecommerce-performance/assets/156917349/bf896a54-33af-49e3-b3ca-82bb8695cafe)
+<br>
+Dari Table  kita dapat mengetahui bahwa tipe pembayaran yang menjadi favorit pelanggan adalah dengan menggunakan credit card. Hal ini bisa dimengerti karena credit card lebih aman untuk dibawa, pembayaran yang fleksibel, dan biasanya disertai dengan promo-promo menarik. Dari data di atas kita bisa menentukan program khusus bagi para pengguna credit card, seperti potongan diskon, program cicilan dengan bunga rendah, atau program gratis ongkir. Dengan begitu lebih banyak lagi customer yang terdorong untuk melakukan transaksi di eCommerce kita, sehingga revenue perusahaan pun akan semakin meningkat.
+
+
 
 
 
